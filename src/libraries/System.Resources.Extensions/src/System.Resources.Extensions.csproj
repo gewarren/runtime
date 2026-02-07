@@ -5,7 +5,6 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <DefineConstants>$(DefineConstants);RESOURCES_EXTENSIONS</DefineConstants>
     <IncludeInternalObsoleteAttribute>true</IncludeInternalObsoleteAttribute>
-    <UseCompilerGeneratedDocXmlFile>false</UseCompilerGeneratedDocXmlFile>
     <IsPackable>true</IsPackable>
     <SuggestedBindingRedirectsPackageFile>$(BaseIntermediateOutputPath)SuggestedBindingRedirects.targets</SuggestedBindingRedirectsPackageFile>
     <PackageDescription>Provides classes which read and write resources in a format that supports non-primitive objects.

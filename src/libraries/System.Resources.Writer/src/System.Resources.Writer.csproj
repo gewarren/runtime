@@ -5,7 +5,6 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <RootNamespace>System.Resources</RootNamespace>
     <NoWarn>$(NoWarn);CA1510</NoWarn>
-    <UseCompilerGeneratedDocXmlFile>false</UseCompilerGeneratedDocXmlFile>
   </PropertyGroup>
 
   <ItemGroup>
